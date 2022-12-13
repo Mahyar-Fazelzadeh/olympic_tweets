@@ -40,25 +40,26 @@ We worked with three vectorizer models in the project to get the best results.
 Now that we have defined our models, we have fitted and transformed our data and used the machine learning model **k-means clustering** to group or cluster the data. WCSS Method (Elbow Method) is used to get the number of clusters for each model.
 
 ### ELBOW METHOD 
+<p align="center">
+<img width="500" src="./images/cluster_count.png" style="max-width: 480px"/>
 
-<img src="./images/cluster_count.png" style="max-width: 480px"/>
+<img width="500" src="./images/cluster_tfidf.png" style="max-width: 480px"/>
 
-<img src="./images/cluster_tfidf.png" style="max-width: 480px"/>
-
-<img src="./images/cluster_pretrained.png" style="max-width: 480px"/>
-
+<img width="500" src="./images/cluster_pretrained.png" style="max-width: 480px"/>
+</p>
 
 We also used **Principal Component Analysis** (PCA) which is a famous unsupervised learning technique to reduce the dimensionality of the data. It also helps to better visualize the data
 Example : For Count Vectorizer, the original data contained 4854 rows x 11991 columns and after PCA it reduced to 4854 rows x 2 columns.
 
 ## 🟡 Visualizations:
 
+<p align="center">
+  <img width="500" src="./images/viz_count.png" />
 
-<img src="./images/viz_count.png" style="max-width: 480px"/>
+  <img width="500" src="./images/viz_tfidf.png" style="max-width: 480px"/>
 
-<img src="./images/viz_tfidf.png" style="max-width: 480px"/>
-
-<img src="./images/viz_pretrained.png" style="max-width: 480px"/>
+  <img width="500" src="./images/viz_pretrained.png" style="max-width: 480px"/>
+</p>
 
 
 
