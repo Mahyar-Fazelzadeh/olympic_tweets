@@ -1,6 +1,3 @@
-# Project 3: Community Learning Project
-
-
 # TOKYO OLYMPICS 2020 (tweets)
 
 
@@ -85,7 +82,4 @@ Also, Tokyo Olympics was the first time after over 40 years that Indian Hockey T
 Unlike the first two clusters, the third one did not consists of meaningful tweets. The tweets in this cluster were mostly about random topics, most of which were not related to the Olympics at all. Therefore, we labeled this cluster 'Olympics Gossips'.
 
 
-## 🟡Conclusion:
-
-We are very satisfied with what we have discovered and it aligned with our goals.
 
